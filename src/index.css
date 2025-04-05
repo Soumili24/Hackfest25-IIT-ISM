@@ -1181,3 +1181,12 @@ body {
     font-size: 1.25rem;
   }
 }
+
+.left-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
